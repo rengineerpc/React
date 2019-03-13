@@ -3,6 +3,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Frontend-Development-with-React.svg)](https://github.com/TrainingByPackt/Beginning-Frontend-Development-with-React/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Frontend-Development-with-React/pulls)
 
+[Lesson React](https://learning.oreilly.com/live-training/courses/beginning-frontend-development-with-react/0636920246619/)
+
 
 # Beginning Application Development with TensorFlow and Keras
 This course will show you all the advantages of true native development that React Native has without the steep learning curve, leveraging the knowledge you already have. We do this by getting you up and running quickly with a sample application. Next, we’ll introduce you to the fundamentals of creating components and explain how React Native works under the hood. Once you have established a solid foundation, you will dive headfirst into developing a real-world application from start to finish. Along the way, we will demonstrate how to create multiple screens and navigate between them,use layout and style native UI components, and access native APIs such as local storage and geolocation. Finally, we tackle the advanced topic of Native modules, which demonstrates that there are truly no limits to what you can do with React Native.
